@@ -1,51 +1,62 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Curiosidades e Easter Eggs da Franquia Diablo
 
-## 🚀 Introdução
+Este repositório contém um roteiro para um vídeo do canal Jiraya sobre curiosidades e easter eggs dos jogos da franquia Diablo. Confira abaixo os detalhes do roteiro.
 
-> Woooow! Look at this 👀
+## Introdução
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+> "Fala galera, Jiraya aqui, e hoje vamos explorar os segredos sombrios e engraçados de uma das franquias mais icônicas dos games: Diablo! Preparem-se para descobrir curiosidades e easter eggs de todos os jogos da série. Então, sem mais delongas, bora lá!"
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## Diablo 1
 
-### Objetivos
+### Introdução
+> "Começamos com o primeiro jogo, lançado lá em 1997. Você sabia que Diablo quase teve uma versão para Game Boy?"
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+### Diablo no Game Boy
+> "Pois é! Com o sucesso do jogo, a Blizzard chegou a desenvolver uma demo para o console portátil da Nintendo, mas acabou desistindo para focar em expandir a história e melhorar os gráficos."
 
-### Template
+### Mensagens Escondidas
+> "E que tal aquelas mensagens secretas no processo de instalação do jogo? Em meio aos chifres do Diablo, escondidas em uma cor quase imperceptível, os desenvolvedores deixaram duas notas: uma promovendo 'Warcraft II' e outra dizendo 'Natalie Portman Rocks'. Parece que a equipe era fã da atriz!"
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+### Diablo e a Saúde
+> "E antes da batalha final contra Diablo, ele solta uma frase que parece uma língua demoníaca. Mas se você reproduzir ao contrário, ele diz: 'Coma seus vegetais e escove os dentes após cada refeição'. Até o Senhor do Terror se preocupa com a saúde!"
 
-## 📒 Descrição
-Breve descrição do seu projeto
+## Diablo 2
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+### Introdução
+> "Passando para Diablo 2, lançado em 2000, a Blizzard caprichou nos gráficos e efeitos sonoros, mas também nos easter eggs."
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+### Soundchaosdebug
+> "Um comando curioso permite ouvir todos os diálogos e falas do jogo ao digitar 'soundchaosdebug' no chat. É a poluição sonora de Diablo 2!"
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+### Cow Level
+> "E o que dizer do famoso Cow Level? Uma brincadeira com os jogadores que resultou em uma fase secreta onde você enfrenta uma horda de vacas infernais armadas. Bizarro, né?"
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## Diablo 3
 
-### Exemplos e Insigths
+### Introdução
+> "Chegando ao Diablo 3, lançado em 2012, a Blizzard não parou com as surpresas."
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+### Capacete do Lich King
+> "Em uma das cavernas do Ato III, você pode encontrar o capacete do Lich King, uma referência direta à série Warcraft."
 
-## Links Interessantes
+### Diário de Lea
+> "Além disso, o diário da personagem Lea, sobrinha de Deckard Cain, revela mais sobre seu passado conforme você avança no jogo."
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+### Condado de Whimsy
+> "E quem lembra das críticas ao visual colorido do jogo? A resposta da Blizzard foi o Condado de Whimsy, um cenário cheio de plantas fofas, nuvens felizes e unicórnios, acessível ao encontrar o fantasma do Rei Vaca."
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+### Development Hell e Quality Well
+> "Diablo 3 também homenageia os funcionários da Blizzard com cenários como 'Development Hell' e 'Quality Well', onde inimigos têm os nomes dos desenvolvedores e do controle de qualidade."
+
+## Diablo 3: Reaper of Souls
+
+### Princesa Vaca
+> "Na expansão Reaper of Souls, a Blizzard continuou a tradição com missões que envolvem vacas demoníacas. Em 'Nephalem Rifts', você pode enfrentar a Princesa Vaca e seus súditos, guardados pelo Rei Vaca."
+
+## Conclusão
+
+> "E aí, curtiu conhecer essas curiosidades e easter eggs da série Diablo? Comenta aí qual foi o seu favorito e se você já encontrou algum deles jogando."
+
+## Chamada para Ação
+
+> "Não se esqueça de deixar o like, se inscrever no canal e ativar o sininho para não perder nenhum vídeo. Até a próxima, galera! Jiraya, saindo!"
